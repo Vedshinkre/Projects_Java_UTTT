@@ -39,6 +39,6 @@ A factory pattern implementation that links the game components together.
 
 ## Getting Started
 ### Prerequisites
-Java Development Kit (JDK)
-Visual Studio Code (or any Java IDE)
-JUnit for running tests
+- Java Development Kit (JDK)
+- Visual Studio Code (or any Java IDE)
+- JUnit for running tests
